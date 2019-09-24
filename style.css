@@ -40,6 +40,9 @@ header {
     display: block;
     font-size: 45rem;
     line-height: 35rem;
+    color: rgb(236, 236, 236);
+    text-shadow: 10px 10px rgba(0,0,0, 0.4);
+
 }
 
 #key {
